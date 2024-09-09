@@ -49,3 +49,5 @@ This basic Node.js code is used to grab specified `command-line arguments`, we u
 ```
 const getCmdArguments = () => process.argv.slice(2); 
 ```
+
+Quicklink to source code<https://code.pieces.app/collections/node-js>
