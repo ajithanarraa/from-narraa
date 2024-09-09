@@ -32,4 +32,13 @@ So, I'm going to add a table of my favourite restuarants that serve my favorite 
 | Charminar | Good Ambiance and Less crowded | Hyderabad |
 | Paradise | Famous biryani restuarant that has been serving for decades | Hyderabad |
 
+-----------
+
+# Quote section
+>I wish I could play little league now. I'd be way better than before.
+>
+>I'm against picketing, but I don't know how to show it.
+>>Mitch Hedberg
+
+----
 
