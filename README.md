@@ -18,3 +18,18 @@ Places where you can play the sport:
 * VolleyBall clubs
 
 [link to MyDish](MyDish.md)
+
+---------
+
+### Table Section
+
+So, I'm going to add a table of my favourite restuarants that serve my favorite dish and the reason I recommend it and their loaction
+
+| Name | Reason | Location |
+| --- | --- | ---: |
+| Desi corner | The food is delicious and spicy | Edmond, Oklahoma City |
+| Shaghouse | They added special flavour to the food which makes it memorable | Hyderabad |
+| Charminar | Good Ambiance and Less crowded | Hyderabad |
+| Paradise | Famous biryani restuarant that has been serving for decades | Hyderabad |
+
+
