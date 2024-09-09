@@ -16,3 +16,5 @@ Places where you can play the sport:
 * University Court
 * Beach
 * VolleyBall clubs
+
+[link to MyDish](MyDish.md)
