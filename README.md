@@ -34,7 +34,7 @@ So, I'm going to add a table of my favourite restuarants that serve my favorite 
 
 -----------
 
-# Quote section
+### Quote section
 >I wish I could play little league now. I'd be way better than before.
 >
 >I'm against picketing, but I don't know how to show it.
@@ -42,3 +42,10 @@ So, I'm going to add a table of my favourite restuarants that serve my favorite 
 
 ----
 
+### Code Fencing
+
+This basic Node.js code is used to grab specified `command-line arguments`, we use the process module which gives control over the current Node.js process, and we remove the first two arguments from the command-line, the Node.js executable and the executed file name.
+
+```
+const getCmdArguments = () => process.argv.slice(2); 
+```
